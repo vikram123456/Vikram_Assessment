@@ -2,7 +2,7 @@
 
 This project is an assement which follows following standards as per instructions.
 
-● It has tab bar based application with two tabs.
+● It two tabs Gallery and Favorites
 
 ● Interfaces created by using UIKit.
 
